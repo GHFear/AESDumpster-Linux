@@ -1,0 +1,3 @@
+Build project with cmake 3.10 and above from (build) directory with terminal commands:
+"cmake ../" -- To create cmake project files.
+"make" -- To build executable.
